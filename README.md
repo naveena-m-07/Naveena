@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/1200x/8e/ef/ff/8eefff39d1e4ea997352ec8450efb878.jpg)
+![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
 <h1 align="center">Hi, I'm Naveena</h1>
 <h3 align="center">A beginner at web development</h3>
 
@@ -13,7 +13,7 @@
 
 - 📫 you may reach me at **naveenamohan2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/open?id=1-qbko2D523V31NEpcy5vf0430g2NanuN&usp=drive_fs](https://drive.google.com/open?id=1-qbko2D523V31NEpcy5vf0430g2NanuN&usp=drive_fs)
+- 📄 know me at [https://drive.google.com/open?id=1-qbko2D523V31NEpcy5vf0430g2NanuN&usp=drive_fs](https://drive.google.com/open?id=1-qbko2D523V31NEpcy5vf0430g2NanuN&usp=drive_fs)
 
 - ⚡ fun fact about me **I am a foodie who like all dishes**
 
